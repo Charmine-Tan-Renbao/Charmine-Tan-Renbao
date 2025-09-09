@@ -1,4 +1,4 @@
 # About me
-My personal repository and the start of my coding journey! Hi everyone, I am a current freshmen in Nanyang Technological University's Bacehlor of Applied Computing in Finance. During my time here, I hope to actively participate in hackathons and go from zero-to-hero, building useful things for society. 
+I hope to put out some projects here as I gained exposure and confidence to start coding.
 
-Let's connect on LinkedIn: www.linkedin.com/in/charmine-t-0b4859211
+Let's connect on LinkedIn: https://www.linkedin.com/in/charmine-tan/
